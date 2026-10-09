@@ -3,7 +3,7 @@
 ## Project Overview
 
 This project generates natural-language captions for images using
-a pretrained Vision Transformer (ViT) encoder and a Transformer
+a pretrained Vision Transformer (ViT) encoder and a Transformer 
 decoder.
 
 The model extracts visual features from an image and generates
