@@ -8,7 +8,7 @@ decoder.
 
 The model extracts visual features from an image and generates
 a descriptive caption token by token.
-
+ 
 ## Objectives
 
 - Extract image features using a pretrained Vision Transformer.
