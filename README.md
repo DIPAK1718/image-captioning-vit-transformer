@@ -12,7 +12,7 @@ a descriptive caption token by token.
 ## Objectives
 
 - Extract image features using a pretrained Vision Transformer.
-- Generate captions using a Transformer decoder.
+- Generate captions using a Transformer decoder. 
 - Combine computer vision and natural language processing.
 - Evaluate the generated captions against reference captions.
 
