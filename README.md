@@ -18,7 +18,7 @@ a descriptive caption token by token.
 
 ## Technologies Used
 
-- Python
+- Python 
 - PyTorch
 - Torchvision
 - Vision Transformer (ViT)
