@@ -15,7 +15,7 @@ a descriptive caption token by token.
 - Generate captions using a Transformer decoder.  
 - Combine computer vision and natural language processing.
 - Evaluate the generated captions against reference captions.
-
+ 
 ## Technologies Used
 
 - Python 
